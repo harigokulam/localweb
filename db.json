@@ -1,0 +1,9 @@
+{
+	"menus": [
+		{ "title" : 'Demand', "url": '/demand/list', "roles": []},
+		{ "title" : 'Recruitment', "url": '/recruitment/list', "roles": []}
+	],
+	"roles": [
+		
+	]
+}
