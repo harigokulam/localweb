@@ -1,0 +1,2 @@
+# localweb
+Static Web template
