@@ -1,6 +1,7 @@
 {
     "menus":[
         {
+            "id" : 1,
             "title":"Demand",
             "url":"/demand/list",
             "roles":[
@@ -8,6 +9,7 @@
             ]
         },
         {
+            "id" : 2,
             "title":"Recruitment",
             "url":"/recruitment/list",
             "roles":[
