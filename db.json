@@ -19,5 +19,9 @@
     ],
     "roles":[
 
-    ]
+    ],
+    "requests": [
+        { "reqdate": "10/10/2019", "hm": "Kalpana", "RRF": 234562, "primaryskills": "Java/J2EE, Spring, Hibernate", "level": "7 years", "status": "Open"},
+         { "reqdate": "14/12/2019", "hm": "Vigneshwaran", "RRF": 3423452, "primaryskills": "AWS Cloud, Microservices", "level": "10 years", "status": "Open"}
+        ]
 }
