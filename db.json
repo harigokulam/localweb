@@ -18,8 +18,13 @@
         }
     ],
     "roles":[
-
+		{"id": 1, "code": "HM", "name": "Hiring Manager"},
+		{"id": 2, "code": "DM", "name": "Delivery Manager"}
     ],
+	"users" :[
+		{"id": 1, "userid": "hari", "name": "Harikumar G", "password": "test", "role": "HM"},
+		{"id": 1, "userid": "manu", "name": "Manoj", "password": "test", "role": "DM"}
+	],
     "requests": [
         { "id": 1, "reqdate": "10/10/2019", "hm": "Kalpana", "RRF": 234562, "primaryskills": "Java/J2EE, Spring, Hibernate", "level": "7 years","recruiter": "Rebekah", "status": "Open"},
          { "id": 2, "reqdate": "14/12/2019", "hm": "Vigneshwaran", "RRF": 3423452, "primaryskills": "AWS Cloud, Microservices", "level": "10 years","recruiter": "Rebekah", "status": "Open"}
